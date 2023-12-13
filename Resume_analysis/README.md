@@ -11,25 +11,25 @@
 
 ## Структура Проекта
 
-- `final_hw.ipynb`: Jupyter ноутбук, содержащий весь код анализа.
-- Ссылки на файлы на Гугл диске
-- Ссылка на график Plotly: 
+- **Jupyter ноутбук, содержащий весь код анализа**: `final_hw.ipynb`
+- **Ссылки на файлы (датасет с резюме и курсами валют) на Гугл диске**: `https://drive.google.com/file/d/1v9-j0a3F1an1AE0cUkYUx_VNTbItkUbj/view?usp=sharing`
+- **Ссылка на график Plotly**: `file:///C:/Users/ekart/OneDrive/Рабочий%20стол/final_hw_python/experience_histogram.html`
 
 ## Инструменты и Библиотеки
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Scipy
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Plotly**
+- **Scipy**
 
 ## Установка
 
 Для запуска проекта необходимо клонировать репозиторий и установить зависимости:
 
 ```bash
-git clone [URL репозитория]
-cd [имя папки проекта]
+git clone https://github.com/eugenekartvelishvili/ResumeHH/tree/main
+cd Final_python
 pip install -r requirements.txt
