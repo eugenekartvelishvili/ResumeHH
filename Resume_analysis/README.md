@@ -11,9 +11,13 @@
 
 ## Структура Проекта
 
-- **Jupyter ноутбук, содержащий весь код анализа**: `final_hw.ipynb`
-- **Ссылки на файлы (датасет с резюме и курсами валют) на Гугл диске**: `https://drive.google.com/file/d/1v9-j0a3F1an1AE0cUkYUx_VNTbItkUbj/view?usp=sharing`
-- **Ссылка на график Plotly**: `file:///C:/Users/ekart/OneDrive/Рабочий%20стол/final_hw_python/experience_histogram.html`
+- **Jupyter ноутбук, содержащий весь код анализа**: [`final_hw.ipynb`](final_hw.ipynb)
+- **Ссылки на файлы (датасет с резюме и курсами валют) на Google Drive**:
+  - [Датасет с резюме](https://drive.google.com/file/d/1v9-j0a3F1an1AE0cUkYUx_VNTbItkUbj/view?usp=sharing)
+  - [Курсы валют](https://drive.google.com/file/d/1fK304LeG9_VheU_uJh-rbzSFxzRwZFyC/view?usp=sharing)
+- **Ссылка на график Plotly на Google Drive**: [График Plotly](https://drive.google.com/file/d/11ecqUD7wJCjXzEtRyzeORtH6YWYKlYGI/view?usp=sharing)
+
+
 
 ## Инструменты и Библиотеки
 
